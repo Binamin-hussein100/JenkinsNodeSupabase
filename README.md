@@ -1,1 +1,1 @@
-JenkinsNodeSupabase
+JenkinsNodeSupabase (development)
